@@ -25,7 +25,7 @@ The full Scoop:
   - 🛠️ Frontend Programming: JavaScript, HTML5, CSS3, JQuery;
   - 🛠️ Extra Languages: SQL, DAX, Power Query M Language;
   - 🗃️ Frameworks: Spring MVC, Spring Boot, Hibernate, JUnit, Mockito, Maven;
-  - 🗃️ Extra Tools: IntelliJ, VSC, Git, Scrum, Apache Tomcat, REST API;
+  - 🗃️ Extra Tools: IntelliJ, VSC, Git, Scrum, Apache Tomcat, REST API, Postman;
   - 💞️ Love working on awesome and impactful projects;
 
 🌱 I’m currently learning C#, OutSystems...
