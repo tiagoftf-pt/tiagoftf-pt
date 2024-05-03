@@ -37,7 +37,6 @@ The full Scoop:
 :construction::construction:GITHUB PROFILE Under Construction! :construction::construction:
 
 Languages and Tools:
-bootstrap css3 git html5 java javascript linux mysql nodejs photoshop postman python spring
 
 <!--👨‍💻 Some of my projects are available at https://github.com/RubenAlmeidaSantos/Portfolio-->
 <!--![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoftf-pt&show_icons=true&theme=transparent)-->
