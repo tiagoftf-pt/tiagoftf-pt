@@ -1,7 +1,8 @@
-### Hi there 👋
+![_ab86d13b-9de1-46ff-83e5-fffa45dfc0ed](https://github.com/tiagoftf-pt/tiagoftf-pt/assets/157635738/a73833b9-e489-44a6-96c0-147765ef8316)
 
-<!--
-**tiagoftf-pt/tiagoftf-pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there👋 Former Civil Engineer to Development World!
+
+<!--**tiagoftf-pt/tiagoftf-pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
